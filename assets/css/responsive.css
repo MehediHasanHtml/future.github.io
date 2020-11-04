@@ -1,0 +1,181 @@
+/* ****************
+Ratina
+************** */
+
+@media (max-width: 1920px){
+
+
+}
+
+
+@media (max-width: 1680px){
+
+
+}
+
+@media (max-width: 1440px){
+
+
+}
+
+
+
+/* ****************
+Desktop
+************** */
+
+@media (max-width: 1024px){
+
+
+}
+@media (max-width: 992px) {
+
+
+}
+
+@media (max-width: 991px){
+.heading h1 {
+    color: #6de7b7;
+    font-size: 56px;
+}
+.nav-tabs .nav-link {
+    margin: 5px 10px;
+}
+.footer-item,
+.footer-logo{
+	margin-bottom: 15px;
+}
+.next-ems-player {
+    height: 400px;
+}
+.chat {
+    height: 496px;
+    width: 100%;
+}
+
+}
+
+
+
+
+@media (max-width: 768px){
+
+
+}
+
+/* **************** 
+Tab 
+************** */
+
+@media (max-width: 767px){
+.heading h1 {
+    color: #6de7b7;
+    font-size: 36px;
+    line-height: 1.3;
+}
+.nav-tabs .nav-link {
+    margin: 5px 10px;
+    font-size: 15px;
+}
+.summit-title h3 {
+    color: #e7e3e2;
+    font-size: 30px;
+}
+.dates p {
+    color: #ffffff;
+    font-size: 15px;
+}
+.contents h4 {
+    color: #e7e3e2;
+    font-size: 20px;
+    margin-top: -5px;
+}
+.roundtable-con h2 {
+    font-size: 20px;
+}
+.sponser-area p img {
+    margin-left: 10px;
+    height: 30px;
+}
+.round-btn a {
+    font-size: 20px;
+}
+
+.send-box img {
+    position: absolute;
+    top: 34px;
+    right: 40px;
+    cursor: pointer;
+}
+
+.dates {
+    text-align: left;
+    margin: 15px 0;
+}
+.header-area {
+    padding: 50px 0;
+}
+.next-ems-player {
+    height: 300px;
+}
+
+.chat {
+    height: 350px;
+}
+
+}
+
+
+@media (max-width: 575px) {
+.logo img {
+	height: 40px;
+}
+.footer-logo img{
+	height: 20px;
+}
+
+.header-area {
+    padding: 30px 0;
+}
+.tabs-area {
+    padding: 30px 0;
+}
+
+.next-ems-player {
+    height: 280px;
+}
+.chat {
+    height: 300px;
+}
+
+}
+
+@media (max-width: 480px) {
+
+
+
+}
+
+
+
+/* **************** 
+Mobile 
+************** */
+@media (max-width: 375px) {
+
+
+
+
+}
+
+@media (max-width: 360px) {
+
+
+
+}
+
+@media (max-width: 320px) {
+
+
+
+}
